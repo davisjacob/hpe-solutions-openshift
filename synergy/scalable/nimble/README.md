@@ -88,7 +88,7 @@ git clone https://github.com/openshift/openshift-ansible
 git checkout release-3.7
 ```
 
-Step2 : Create the VM template in RHV-M using the below command. 
+Step3 : Create the VM template in RHV-M using the below command. 
 
 This will create a template which will be used to clone and deploy VMs for OpenShift installation.
 ``` 
